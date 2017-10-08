@@ -5,12 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --no-timeouts test/*-spec.js",
-    "clean": "rm -rf node_modules"    
+    "clean": "rm -rf node_modules"
   },
   "author": "Gil Tayar <gil@tayar.org>",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
