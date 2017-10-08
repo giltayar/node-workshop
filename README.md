@@ -1,7 +1,7 @@
 This is all the material for the NodeJS Workshop.
 
 # Setup Instructions
-1. Install Node v7 (currently v7.10.0)
+1. Install Node v8 (currently v8.4.0)
 1. Install git
 1. `$ git clone https://github.com/giltayar/node-workshop.git`
 1. `$ cd node-workshop`
